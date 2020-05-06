@@ -39,7 +39,7 @@ Vou te ensinar tudo isso [neste curso](http://b.link/GitHub_curso_automacao), sa
 ---
 
 # Mini-Tutorial de como criar um executável para Windows
-0. Para ver o vídeo tutorial completo clique aqui: [Link para vídeo no Youtube]()
+0. Para ver o vídeo tutorial completo clique aqui: [Link para vídeo no Youtube](https://youtu.be/TBdRfrWT7Co)
 1. Instale o PyInstaller
     ``` bash
     pip install pyinstaller`
